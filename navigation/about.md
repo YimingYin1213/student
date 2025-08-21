@@ -1,6 +1,6 @@
 ---
 layout: post
-title: About
+title: Yiming Yin
 permalink: /about/
 comments: true
 ---
@@ -8,7 +8,7 @@ comments: true
 ## As a conversation Starter
 
 Here are some places I have lived.
-
+Shenyang China, Texas Houston, California San Diego
 <comment>
 Flags are made using Wikipedia images
 </comment>
