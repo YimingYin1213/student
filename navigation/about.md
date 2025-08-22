@@ -9,34 +9,10 @@ comments: true
 
 Here are some places I have lived.
 Shenyang China, Texas Houston, California San Diego
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Image Display</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      text-align: center;
-      margin-top: 50px;
-      background-color: #f2f2f2;
-    }
-    img {
-      width: 400px;
-      border: 4px solid #555;
-      border-radius: 10px;
-      box-shadow: 0 4px 10px rgba(0,0,0,0.3);
-    }
-    h1 {
-      color: #333;
-    }
-  </style>
-</head>
-<body>
-  <h1>Image of China</h1>
-  <img src="images/China.png" alt="Map or Image of China">
-</body>
-</html>
+# Image of China
+
+![China](images/about/China.png)
+
 
 <comment>
 
