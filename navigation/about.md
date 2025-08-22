@@ -12,7 +12,6 @@ Shenyang China, Texas Houston, California San Diego
 <comment>
 
 <comment>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FChina&psig=AOvVaw1omkuhDu8gH1alLOxzUhKh&ust=1755886757908000&source=images&cd=vfe&opi=89978449&ved=0CBYQjRxqFwoTCOiRlYXCnI8DFQAAAAAdAAAAABAE">
 
 <style>
     /* Style looks pretty compact, 
