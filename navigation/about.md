@@ -9,7 +9,6 @@ comments: true
 
 Here are some places I have lived.
 Shenyang China, Texas Houston, California San Diego
-# Image of China
 
 ![China](images/about/China.png)
 
