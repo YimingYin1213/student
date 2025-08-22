@@ -9,6 +9,7 @@ comments: true
 
 Here are some places I have lived.
 Shenyang China, Texas Houston, California San Diego
+{% raw %} {{ site.baseurl }}/images/China.png {% endraw %}
 <comment>
 
 <comment>
