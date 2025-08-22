@@ -33,7 +33,7 @@ Hi! My name is Yiming Yin
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
     <a href="{{site.baseurl}}/snake" style="text-decoration: none;">
-        <div style="background-color: #00FF00; color: black; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
+        <div style="background-color: #0d880dff; color: black; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
             Snake Game
         </div>
     </a>
