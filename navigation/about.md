@@ -17,30 +17,23 @@ Here are the pictures of the places I have lived
   <!-- California -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_California.svg" alt="California Flag" style="width:150px; height:auto;">
 </div>
-
-
-
-<comment>
+I was borned in Shenyang, China, and lived there for twelve years. In 2022 I moved to the U.S. Texas and lived for another year. Now I'm living in California San Diego.
 
 <comment>
 
-
+<comment>
+<img src="https://drive.google.com/uc?export=view&id=1AcxoeUcsEBbIe0BFLu_eDwqNiJPMP_KA" alt="About me canva page" width="300">
 
 ### Journey through Life
 
 Here is what I did at those places
 
 - 🏫 Kindergarden-Elementary School in China
-- 🏫 Middle School in Texas Houston and California San Diego
+- 🏫 Middle School in Texas Houston (Beck Junior High) and California San Diego (Oak Valley Middle)
 - 🎓 High School in San Diego (Del Norte High School)
 
 ### Culture, Family, and Fun
 
-Everything for me, as for many others, revolves around family and faith.
-
-- My mother told me that I was Danish, English. and Irish, here is my researched [family tree]({{site.baseurl}}/images/about/familytree.png)
-- My family is pretty big as I have been married twice, my 1st wife passed away.  We have had 5 kids, 4 adopted by me, 1 biological.  Plus, there are three grandkids.  My name to my grandkids is Abuilito.
-- The gallery of pics has some of my family, fun, culture and faith memories.
 
 <comment>
 Gallery of Pics, scroll to the right for more ...
