@@ -7,7 +7,16 @@ comments: true
 
 ## As a conversation Starter
 Here are the pictures of the places I have lived
-<img src="https://flagpedia.net/data/flags/w580/cn.webp" alt="China Flag">
+<div style="display: flex; gap: 10px; justify-content: center;">
+  <!-- China -->
+  <img src="https://flagpedia.net/data/flags/w580/cn.webp" alt="China Flag" style="width:150px; height:auto;">
+  
+  <!-- Texas -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f7/Flag_of_Texas.svg" alt="Texas Flag" style="width:150px; height:auto;">
+  
+  <!-- California -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_California.svg" alt="California Flag" style="width:150px; height:auto;">
+</div>
 
 
 
