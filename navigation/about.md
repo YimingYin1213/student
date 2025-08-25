@@ -25,8 +25,6 @@ I was borned in Shenyang, China, and lived there for twelve years. In 2022 I mov
 
 ### Journey through Life
 
-Here is what I did at those places
-
 - 🏫 Kindergarden-Elementary School in China
 - 🏫 Middle School in Texas Houston (Beck Junior High) and California San Diego (Oak Valley Middle)
 - 🎓 High School in San Diego (Del Norte High School)
