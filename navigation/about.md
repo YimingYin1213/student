@@ -40,13 +40,25 @@ Gallery of Pics, scroll to the right for more ...
 
 <table>
   <tr>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/DNA_double_helix_vertical.png" alt="Biology - DNA" width="150"><br>Biology</td>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/LaTeX_integral_example.svg" alt="Math - Integral" width="150"><br>Math</td>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Video-Game-Controller-Icon.svg" alt="Video Games" width="150"><br>Video Games</td>
+    <td>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/DNA_double_helix_vertical.png" width="150"><br>Biology
+    </td>
+    <td>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/LaTeX_integral_example.svg" width="150"><br>Math
+    </td>
+    <td>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Video-Game-Controller-Icon.svg" width="150"><br>Video Games
+    </td>
   </tr>
   <tr>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Barbecue_in_Thailand.jpg" alt="Barbecue" width="150"><br>Barbecue</td>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Halloween_Pumpkins.jpg" alt="Halloween" width="150"><br>Halloween</td>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Badminton_rackets.jpg" alt="Badminton" width="150"><br>Badminton</td>
+    <td>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Barbecue_in_Thailand.jpg" width="150"><br>Barbecue
+    </td>
+    <td>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Halloween_Pumpkins.jpg" width="150"><br>Halloween
+    </td>
+    <td>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Badminton_racket_and_shuttlecock.jpg" width="150"><br>Badminton
+    </td>
   </tr>
 </table>
