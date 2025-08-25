@@ -22,7 +22,6 @@ I was borned in Shenyang, China, and lived there for twelve years. In 2022 I mov
 <comment>
 
 <comment>
-<img src="https://drive.google.com/uc?export=view&id=1AcxoeUcsEBbIe0BFLu_eDwqNiJPMP_KA" alt="About me canva page" width="300">
 
 ### Journey through Life
 
