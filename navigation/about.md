@@ -8,6 +8,7 @@ comments: true
 ## As a conversation Starter
 Here are the pictures of the places I have lived
 <img src="https://flagpedia.net/data/flags/w580/cn.webp" alt="China Flag">
+<img src="DIRECT_URL_OF_PUBLIC_DOMAIN_IMAGE.jpg" alt="Playing Badminton">
 
 
 <comment>
