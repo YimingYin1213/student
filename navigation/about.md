@@ -6,13 +6,8 @@ comments: true
 ---
 
 ## As a conversation Starter
-
-Here are some places I have lived.
-Shenyang China, Texas Houston, California San Diego
-
-![Chinese Flag](images/about/China.png)
-
-
+Here are the pictures of the places I have lived
+ img src= "https://flagpedia.net/data/flags/w1600/cn.png" alt="Home Image"
 
 <comment>
 
