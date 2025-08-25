@@ -7,7 +7,8 @@ comments: true
 
 ## As a conversation Starter
 Here are the pictures of the places I have lived
-<img src= "https://www.google.com/url?sa=i&url=https%3A%2F%2Fultimateflags.com%2Fproducts%2Fchina-flag-2x3-3x5-ft-12x18-inch-standard%2F%3Fsrsltid%3DAfmBOopTQIFdMkg0VohUKN55FZknSd0yZ6sHZQMbHkNNOH9ngXYmVEwC&psig=AOvVaw05MbOr6bt9Eoni75uZrDuu&ust=1756183403445000&source=images&cd=vfe&opi=89978449&ved=0CBYQjRxqFwoTCJi9wZCTpY8DFQAAAAAdAAAAABAL" alt="China Flag"
+<img src="https://flagpedia.net/data/flags/w580/cn.webp" alt="China Flag">
+
 
 <comment>
 
