@@ -36,8 +36,6 @@ Here is what I did at those places
 Gallery of Pics, scroll to the right for more ...
 </comment>
 
-### Gallery of Pics
-
 <h3>Gallery of Pics</h3>
 
 <table>
