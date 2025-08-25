@@ -38,17 +38,25 @@ Here is what I did at those places
 <comment>
 Gallery of Pics, scroll to the right for more ...
 </comment>
-<div class="image-gallery">
-  <img src="{{site.baseurl}}/images/about/missionary.jpg" alt="Image 1">
-  <img src="{{site.baseurl}}/images/about/john_tamara.jpg" alt="Image 2">
-  <img src="{{site.baseurl}}/images/about/tamara_fam.jpg" alt="Image 3">
-  <img src="{{site.baseurl}}/images/about/surf.jpg" alt="Image 4">
-  <img src="{{site.baseurl}}/images/about/john_lora.jpg" alt="Image 5">
-  <img src="{{site.baseurl}}/images/about/lora_fam.jpg" alt="Image 6">
-  <img src="{{site.baseurl}}/images/about/lora_fam2.jpg" alt="Image 7">
-  <img src="{{site.baseurl}}/images/about/pj_party.jpg" alt="Image 8">
-  <img src="{{site.baseurl}}/images/about/trent_family.png" alt="Image 9">
-  <img src="{{site.baseurl}}/images/about/claire.jpg" alt="Image 10">
-  <img src="{{site.baseurl}}/images/about/grandkids.jpg" alt="Image 11">
-  <img src="{{site.baseurl}}/images/about/farm.jpg" alt="Image 12">
-</div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Image Gallery</title>
+</head>
+<body>
+  <div class="gallery">
+    <!-- Biology -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/DNA_double_helix_vertical.png" alt="Biology - DNA">
+
+<!-- Math -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/LaTeX_integral_example.svg" alt="Math - Integral">
+
+<!-- Video Games -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Video-Game-Controller-Icon.svg" alt="Video Games">
+
+<!-- Barbecue -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Barbecue_in_Thailand.jpg" alt="Barbecue">
+
+<!-- Halloween -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Halloween_Pumpkins.jpg" alt="Halloween">
