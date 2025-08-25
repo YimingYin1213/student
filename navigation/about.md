@@ -7,7 +7,7 @@ comments: true
 
 ## As a conversation Starter
 Here are the pictures of the places I have lived
-<img src= "https://flagpedia.net/data/flags/w1600/cn.png" alt="Home Image"
+<img src= "https://flagpedia.net/data/flags/w580/cn.webp" alt="Home Image"
 
 <comment>
 
