@@ -35,10 +35,11 @@ Here is what I did at those places
 <comment>
 Gallery of Pics, scroll to the right for more ...
 </comment>
+
 ### Gallery of Pics
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/DNA_double_helix_vertical.png" alt="Biology - DNA" width="200">
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/LaTeX_integral_example.svg" alt="Math - Integral" width="200">
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Video-Game-Controller-Icon.svg" alt="Video Games" width="200">
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Barbecue_in_Thailand.jpg" alt="Barbecue" width="200">
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Halloween_Pumpkins.jpg" alt="Halloween" width="200">
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/DNA_double_helix_vertical.png" alt="Biology - DNA" width="150">
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/LaTeX_integral_example.svg" alt="Math - Integral" width="150">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Video-Game-Controller-Icon.svg" alt="Video Games" width="150">
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Barbecue_in_Thailand.jpg" alt="Barbecue" width="150">
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Halloween_Pumpkins.jpg" alt="Halloween" width="150">
