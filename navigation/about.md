@@ -36,25 +36,10 @@ Here is what I did at those places
 <comment>
 Gallery of Pics, scroll to the right for more ...
 </comment>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Image Gallery</title>
-</head>
-<body>
-  <div class="gallery">
-    <!-- Biology -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/DNA_double_helix_vertical.png" alt="Biology - DNA">
+### Gallery of Pics
 
-<!-- Math -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/LaTeX_integral_example.svg" alt="Math - Integral">
-
-<!-- Video Games -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Video-Game-Controller-Icon.svg" alt="Video Games">
-
-<!-- Barbecue -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Barbecue_in_Thailand.jpg" alt="Barbecue">
-
-<!-- Halloween -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Halloween_Pumpkins.jpg" alt="Halloween">
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/DNA_double_helix_vertical.png" alt="Biology - DNA" width="200">
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/LaTeX_integral_example.svg" alt="Math - Integral" width="200">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Video-Game-Controller-Icon.svg" alt="Video Games" width="200">
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Barbecue_in_Thailand.jpg" alt="Barbecue" width="200">
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Halloween_Pumpkins.jpg" alt="Halloween" width="200">
