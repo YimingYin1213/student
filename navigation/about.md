@@ -32,8 +32,6 @@ Here is what I did at those places
 - 🏫 Middle School in Texas Houston (Beck Junior High) and California San Diego (Oak Valley Middle)
 - 🎓 High School in San Diego (Del Norte High School)
 
-### Culture, Family, and Fun
-
 
 <comment>
 Gallery of Pics, scroll to the right for more ...
