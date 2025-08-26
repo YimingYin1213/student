@@ -34,4 +34,4 @@ Gallery of Pics, scroll to the right for more ...
 </comment>
 
 ### Here is a gallery of pics
-<img src=(https://upload.wikimedia.org/wikipedia/commons/3/3f/DNA_double_helix_vertical.png) alt=biology
+<img src=(https://commons.wikimedia.org/wiki/File:DNA_Visual_Representation_of_Double%E2%80%91Helix.png) alt=biology
