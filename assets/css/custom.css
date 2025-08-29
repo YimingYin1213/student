@@ -1,0 +1,12 @@
+body {
+  background: url('{{ "/assets/images/jeremy-thomas-E0AHdsENmDg-unsplash.jpg" | relative_url }}') no-repeat center center fixed;
+  background-size: cover;
+}
+
+a {
+  color: #ff6600;
+}
+
+header, footer {
+  background-color: #1a1a1a;
+}
