@@ -33,12 +33,16 @@ Hi! My name is Yiming Yin
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
     <a href="{{site.baseurl}}/snake" style="text-decoration: none;">
+<<<<<<< HEAD
         <div style="background-color: #0d880dff; color: black; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
+=======
+        <div style="background-color: #f4f4f4ff; color: black; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
+>>>>>>> d88461813973098faedfb03a5d3b023b6d38791d
             Snake Game
         </div>
     </a>
     <a href="{{site.baseurl}}/turtle" style="text-decoration: none;">
-        <div style="background-color: #FF0000; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
+        <div style="background-color: #002affff; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
             Turtle
         </div>
     </a>
