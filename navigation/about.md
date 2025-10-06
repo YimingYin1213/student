@@ -39,4 +39,4 @@ Gallery of Pics, scroll to the right for more ...
 </comment>
 
 ### Here is a gallery of pics
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_California.svg" alt="California Flag" style="width:150px; height:auto;">
+<img src="https://images.unsplash.com/photo-1721760886493-61c47c1caec9?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="California Flag" style="width:150px; height:auto;">

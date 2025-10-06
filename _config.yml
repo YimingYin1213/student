@@ -6,15 +6,10 @@ github_repo: "student"
 baseurl: "/student"
 future: true
 
-# Apply the Uni theme for a galaxy-inspired design
-remote_theme: jekyll-theme-uni
+# Apply the Cayman theme
+theme: jekyll-theme-cayman
 
-# Optional: Customize colors for a cosmic feel
-background_color: "#0d0d0d"  # Deep space black
-text_color: "#ffffff"        # Bright white text
-link_color: "#ff6600"        # Nebula orange for links
-
-# Social links
+# Social links (optional, Cayman doesn’t have built-in icons, but you can link them in your Markdown)
 social_links:
   - { platform: github, user_url: "https://github.com/open-coding-society" }
   - { platform: x, user_url: "https://x.com/Open_Coding" }
@@ -22,16 +17,15 @@ social_links:
 
 # Plugins
 plugins:
-  - jekyll-remote-theme
   - jekyll-include-cache
 
-# Header pages
+# Header pages (Cayman will render them as navigation links)
 header_pages:
   - navigation/blog.md
   - navigation/search.md
   - navigation/about.md
   - navigation/logintoolkit.md
 
-# Optional: Include custom CSS for additional styling
+# Optional: Include custom CSS for tweaks
 include:
   - assets/css/custom.css
