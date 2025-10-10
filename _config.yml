@@ -6,10 +6,10 @@ github_repo: "student"
 baseurl: "/student"
 future: true
 
-# Apply the Cayman theme
-theme: jekyll-theme-cayman
+# Apply the Minima theme
+theme: minima
 
-# Social links (optional, Cayman doesn’t have built-in icons, but you can link them in your Markdown)
+# Social links for minima theme
 social_links:
   - { platform: github, user_url: "https://github.com/open-coding-society" }
   - { platform: x, user_url: "https://x.com/Open_Coding" }
@@ -19,7 +19,7 @@ social_links:
 plugins:
   - jekyll-include-cache
 
-# Header pages (Cayman will render them as navigation links)
+# Header pages (minima will render them as navigation links)
 header_pages:
   - navigation/blog.md
   - navigation/search.md

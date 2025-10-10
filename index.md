@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: home
 title: I'm Yiming Yin
 hide: true
 ---
